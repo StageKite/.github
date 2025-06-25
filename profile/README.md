@@ -49,11 +49,11 @@ End-to-end testing infrastructure to ensure reliability and performance across a
 
 ## 💻 Technology Stack
 
-- **Frontend**: React, TypeScript, Mantine UI
+- **Frontend**: React, TypeScript, Mantine UI, Tailwind
 - **Backend**: Node.js, Express, Sequelize
-- **Database**: PostgreSQL
+- **Database**: MySQL
 - **AI**: OpenAI, ElevenLabs, proprietary NLP models
-- **Infrastructure**: AWS, GitHub Actions
+- **Infrastructure**: Azure
 
 ## 🤝 Contributing
 
