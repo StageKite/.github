@@ -1,7 +1,7 @@
 # StageKite
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/StageKite/main-site/master/public/logo.png" alt="StageKite Logo" width="200"/>
+  <img src="[https://raw.githubusercontent.com/StageKite/main-site/master/public/logo.png](https://stagekite.com/1.svg)" alt="StageKite Logo" width="200"/>
 </p>
 
 <p align="center">
@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://stagekite.com">Website</a> •
-  <a href="https://dashboard.stagekite.com">Dashboard</a> •
+  <a href="https://app.stagekite.com">Dashboard</a> •
   <a href="https://github.com/StageKite/main-site">Main Site</a> •
-  <a href="https://github.com/StageKite/stagekitedashboard">Dashboard</a> •
-  <a href="https://github.com/StageKite/salespigeonbackend">Backend</a> •
+  <a href="https://github.com/StageKite/frontend">Dashboard</a> •
+  <a href="https://github.com/StageKite/backend">Backend</a> •
   <a href="https://github.com/StageKite/stagekite-test-suite">Test Suite</a>
 </p>
 
@@ -30,10 +30,10 @@ To empower sales teams with intelligent tools that eliminate administrative burd
 ### [Main Site](https://github.com/StageKite/main-site)
 Our company website built with Next.js, showcasing our product, features, and company information.
 
-### [Dashboard](https://github.com/StageKite/stagekitedashboard)
+### [Dashboard](https://github.com/StageKite/frontend)
 The primary web application that sales teams interact with, featuring opportunity management, AI assistant, and analytics.
 
-### [Backend](https://github.com/StageKite/salespigeonbackend)
+### [Backend](https://github.com/StageKite/backend)
 The Node.js/Express backend service that powers our platform, handling CRM integrations, AI processing, and data management.
 
 ### [Test Suite](https://github.com/StageKite/stagekite-test-suite)
