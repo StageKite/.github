@@ -1,7 +1,7 @@
 # StageKite
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/StageKite/main-site/master/public/logo.png](https://stagekite.com/1.svg)" alt="StageKite Logo" width="200"/>
+  <img src="https://stagekite.com/1.svg" alt="StageKite Logo" width="200"/>
 </p>
 
 <p align="center">
