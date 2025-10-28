@@ -17,6 +17,8 @@
   <a href="https://github.com/StageKite/stagekite-test-suite">Test Suite</a>
 </p>
 
+[![Build and Deploy Backend](https://github.com/StageKite/backend/actions/workflows/main.yml/badge.svg)](https://github.com/StageKite/backend/actions/workflows/main.yml)
+
 ## 🚀 About StageKite
 
 StageKite is an AI-powered sales enablement platform that helps B2B sales teams close more deals by automating tedious tasks, providing valuable insights, and ensuring nothing falls through the cracks. Our platform seamlessly integrates with popular CRMs like Salesforce, Zoho, and HubSpot to enhance your existing workflow.
