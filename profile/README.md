@@ -17,6 +17,7 @@
   <a href="https://github.com/StageKite/stagekite-test-suite">Test Suite</a>
 </p>
 
+[![Build and Deploy ProposalChat - Azure Web App](https://github.com/StageKite/proposal-chat/actions/workflows/master_proposalchat.yml/badge.svg)](https://github.com/StageKite/proposal-chat/actions/workflows/master_proposalchat.yml)
 [![Build and Deploy Backend](https://github.com/StageKite/backend/actions/workflows/main.yml/badge.svg)](https://github.com/StageKite/backend/actions/workflows/main.yml)
 
 ## 🚀 About StageKite
