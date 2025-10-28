@@ -18,13 +18,13 @@
 </p>
 
 
-[![Build and Deploy Frontend](https://github.com/StageKite/frontend/actions/workflows/main.yml/badge.svg)](https://github.com/StageKite/frontend/actions/workflows/main.yml)
+Frontend ProposalChat: [![Build and Deploy ProposalChat - Azure Web App](https://github.com/StageKite/proposal-chat/actions/workflows/master_proposalchat.yml/badge.svg)](https://github.com/StageKite/proposal-chat/actions/workflows/master_proposalchat.yml)
 
-[![Build and Deploy ProposalChat - Azure Web App](https://github.com/StageKite/proposal-chat/actions/workflows/master_proposalchat.yml/badge.svg)](https://github.com/StageKite/proposal-chat/actions/workflows/master_proposalchat.yml)
+Frontend Dashboard: [![Build and Deploy Frontend](https://github.com/StageKite/frontend/actions/workflows/main.yml/badge.svg)](https://github.com/StageKite/frontend/actions/workflows/main.yml)
 
-[![Build and Deploy Backend](https://github.com/StageKite/backend/actions/workflows/main.yml/badge.svg)](https://github.com/StageKite/backend/actions/workflows/main.yml)
+Backend: [![Build and Deploy Backend](https://github.com/StageKite/backend/actions/workflows/main.yml/badge.svg)](https://github.com/StageKite/backend/actions/workflows/main.yml)
 
-[![Build and Deploy Main Site](https://github.com/StageKite/main-site/actions/workflows/main.yml/badge.svg)](https://github.com/StageKite/main-site/actions/workflows/main.yml)
+Main Site: [![Build and Deploy Main Site](https://github.com/StageKite/main-site/actions/workflows/main.yml/badge.svg)](https://github.com/StageKite/main-site/actions/workflows/main.yml)
 
 ## 🚀 About StageKite
 
